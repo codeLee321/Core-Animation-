@@ -16,5 +16,4 @@ ios 添加购物车的交互动画
 */
 -(void)startAnimationandView:(UIView *)view andRect:(CGRect)rect andFinisnRect:(CGPoint)finishPoint andFinishBlock:(animationFinisnBlock)completion;
 ```
-简书地址
-http://www.jianshu.com/p/bd650158d44c
+
